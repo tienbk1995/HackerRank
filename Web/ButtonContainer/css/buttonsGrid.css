@@ -1,0 +1,10 @@
+.ButtonContainer
+{
+    width: 75%;
+}
+.ButtonContainer > .btn
+{
+    width: 30%;
+    height: 48px;
+    font-size: 24px;
+}
